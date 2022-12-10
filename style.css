@@ -1,0 +1,21 @@
+.jumbotron{
+    padding: 2rem 1rem;
+    background-color: #8caab9;
+}
+body{
+    background-color: lightblue;
+
+}
+.navbar{
+    background-color: #aecbe8;
+}
+h3{
+    font-family: Arial;
+}
+.h1{
+    font-style: italic;
+}
+.h5{
+    font-size: medium;
+    font-style: italic;
+}
